@@ -1,15 +1,8 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "title": "Tarsar Marsar","description":"Tarsar Marsar is a trek where alpine lakes take a life of their own. It is not just the fact that you get to camp beside these royal blue, snow-fed lakes (you don’t get this camping chance even at KGL)."  },
+    { "id": 2, "title": "Hamta Pass","description":"At 14,000 feet Hampta Pass in Himachal Pradesh falls under those rare, dramatic pass crossings in the Himalayas. " },
+    { "id": 3, "title": "Nafran Valley","description":"For a long time, we’ve been looking for another trek in Kashmir that matches up to our blockbuster treks, Kashmir Great Lakes and Tarsar Marsar." }
+  ]
 }
